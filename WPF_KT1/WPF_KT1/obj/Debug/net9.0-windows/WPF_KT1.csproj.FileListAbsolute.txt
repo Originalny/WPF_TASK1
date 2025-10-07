@@ -1,0 +1,16 @@
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\bin\Debug\net9.0-windows\WPF_KT1.exe
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\bin\Debug\net9.0-windows\WPF_KT1.deps.json
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\bin\Debug\net9.0-windows\WPF_KT1.runtimeconfig.json
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\bin\Debug\net9.0-windows\WPF_KT1.dll
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\bin\Debug\net9.0-windows\WPF_KT1.pdb
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.Form1.resources
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.csproj.GenerateResource.cache
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.AssemblyInfoInputs.cache
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.AssemblyInfo.cs
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.dll
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\refint\WPF_KT1.dll
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.pdb
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\WPF_KT1.genruntimeconfig.cache
+C:\Users\Soma\source\repos\WPF_KT1\WPF_KT1\obj\Debug\net9.0-windows\ref\WPF_KT1.dll
